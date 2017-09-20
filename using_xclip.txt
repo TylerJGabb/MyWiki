@@ -1,0 +1,3 @@
+To copy the stdout of some command to the clipboard, type the following
+command [arguments] | xclip -selection clipboard
+---------------------------------------------------------------------
