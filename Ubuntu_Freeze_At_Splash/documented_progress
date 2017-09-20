@@ -1,3 +1,4 @@
+Call this timestamp Tue Sep 19 19:50:27 MST 2017
 I have changed the line
 GRUB_CMDLINE_LINUX_DEFAULY="quiet splash" TO 
 ' '  '  '  '  '  '  '  '  =""
@@ -6,5 +7,13 @@ I have invoked the command:
 	sudo update-grub
 
 I am about to restart.
-Call this timestamp Tue Sep 19 19:50:27 MST 2017
 ------------------------------------------------
+Call this timestamp Tue Sep 19 20:07:31 MST 2017
+
+I have restarted and am able to see command line during startup.
+There was no hang on shutdown this time.
+I will revisit this log when I encounter the bug again.
+------------------------------------------------
+
+
+
