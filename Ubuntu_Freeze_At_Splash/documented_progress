@@ -1,0 +1,10 @@
+I have changed the line
+GRUB_CMDLINE_LINUX_DEFAULY="quiet splash" TO 
+' '  '  '  '  '  '  '  '  =""
+
+I have invoked the command:
+	sudo update-grub
+
+I am about to restart.
+Call this timestamp Tue Sep 19 19:50:27 MST 2017
+------------------------------------------------
